@@ -1,6 +1,16 @@
-# Pokedex
+# Pokedex - Carlos Eduardo Malaquias Fernandes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
+
+# Telas - Tela com 150 pokemons listados
+
+![2021-12-06_232027](https://user-images.githubusercontent.com/93654887/144954523-784f7874-38f9-4697-bf2d-b67f32e53e16.jpg)
+
+# Telas - Pesquisa por ex. da palavra "cha"
+![2021-12-06_232052](https://user-images.githubusercontent.com/93654887/144954641-0bbbb133-d391-4f69-a3e5-1f40a48b36d1.jpg)
+
+# Telas - Caracteristicas do pokemon escolhido
+![2021-12-06_232110](https://user-images.githubusercontent.com/93654887/144954730-e2941ed0-97a9-4160-b584-b6d61787360d.jpg)
 
 ## Development server
 
