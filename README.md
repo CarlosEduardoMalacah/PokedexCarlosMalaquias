@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 
+Site onde está hospedado>>>>> https://pokedexcarlosmalaquias.netlify.app/
+
 # Telas - Tela com 150 pokemons listados
 
 ![2021-12-06_232027](https://user-images.githubusercontent.com/93654887/144954523-784f7874-38f9-4697-bf2d-b67f32e53e16.jpg)
